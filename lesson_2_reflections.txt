@@ -1,0 +1,5 @@
+What happens when you initialize a repository? Why do you need to do it?
+
+The hidden directory is created. Everything in the directory is prepared for version controll. Initializing repository is essential to have all structured prepared for version control. It is likie preparation of notepad when git will trace all commits I make. 
+
+
