@@ -7,8 +7,13 @@ Why might you want to always pull changes manually rather than having Git automa
 
 I think it is because it may be disturbing. When I work on something, it can happen that someone push changes on GitHub touching exactly the same part of code that I modify. Instead of working I would have to struggle with conficts, checking someone else modifications and so on. On the other hand - if I work alone, I exactly know what changed and where. There is no need for automatic pull. 
 
+
 Describe the differences between forks, clones, and branches. When would you use one instead of another?
 
 Fork is a way to have own copy for modifications, keeping the original verion untouched. Clone works for remote and local repositories. It is for having local and remote repository. Branch is just a way to manage different flavours of code within one repository.
 
+
+What is the benefit of having a copy of the last known state of the remote stored locally?
+
+First of all, it allows working without any network connection. The other thing is a group of people can develop a different parts of the software (or even the same part) independantly. The merging mechanizm allow integration of all changes into coherent code.
 
