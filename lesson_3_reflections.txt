@@ -14,11 +14,19 @@ Fork is a way to have own copy for modifications, keeping the original verion un
 
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
 
 I would probably use svn. It is also quite convinient, though part of colaboration has to be done via e-maile or phones. I can expect github is more convinient, but righ now, I know it to little...
 
 
+||||||| merged common ancestors
+=======
+What is the benefit of having a copy of the last known state of the remote stored locally?
+
+First of all, it allows working without any network connection. The other thing is a group of people can develop a different parts of the software (or even the same part) independantly. The merging mechanizm allow integration of all changes into coherent code.
+
+>>>>>>> 321b8465620f90a5e0064a85d4395d863f927acb
 ||||||| merged common ancestors
 =======
 What is the benefit of having a copy of the last known state of the remote stored locally?
