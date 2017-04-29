@@ -23,4 +23,9 @@ How would you collaborate without using Git or GitHub? What would be easier, and
 I would probably use svn. It is also quite convinient, though part of colaboration has to be done via e-maile or phones. I can expect github is more convinient, but righ now, I know it to little...
 
 
+When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+
+The separate branch is useful whenever I introduce sth definitelly new. It changes in a way the nature of final product. There is a risk, the changes are not as cool as I expected or they conflict someone else work. On the other hand, simple bug corrections can be done on master branch.
+
+
 
